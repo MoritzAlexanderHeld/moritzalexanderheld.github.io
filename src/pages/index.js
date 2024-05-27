@@ -126,7 +126,7 @@ const links = [
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <h1> Hey! This website is still in development. Come back later!</h1>
+      <h1> Hey! This website is still in development. Feel free to come back later!</h1>
     </main>
   )
 }
