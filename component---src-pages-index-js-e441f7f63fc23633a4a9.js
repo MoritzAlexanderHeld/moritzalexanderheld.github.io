@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmoritz_held_de=self.webpackChunkmoritz_held_de||[]).push([[678],{6558:function(e,t,l){l.r(t),l.d(t,{Head:function(){return i}});var n=l(7294);const s={color:"#232129",padding:96,fontFamily:"-apple-system, Roboto, sans-serif, serif"};t.default=()=>n.createElement("main",{style:s},n.createElement("h1",null," Hey! This website is still in development. Feel free to come back later!"));const i=()=>n.createElement("title",null,"Moritz-Held.de")}}]);
+//# sourceMappingURL=component---src-pages-index-js-e441f7f63fc23633a4a9.js.map
