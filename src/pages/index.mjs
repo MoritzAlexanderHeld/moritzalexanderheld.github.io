@@ -1,4 +1,5 @@
 import * as React from "react"
+import { Helmet } from "react-helmet"
 
 const pageStyles = {
   color: "#232129",
@@ -9,6 +10,9 @@ const pageStyles = {
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
+      <Helmet>
+        <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+      </Helmet>
       <h1> Hey! This website is still in development. Feel free to come back later!</h1>
     </main>
   )
